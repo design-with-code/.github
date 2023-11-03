@@ -1,7 +1,9 @@
-**THIS PAGE IS CURRENTLY SET UP**
-
+> [!WARNING]
+> This page is currently being set up.
 
 # Design with Code
+
+![Part 1 teaser](https://github.com/design-with-code/.github/assets/46745939/31ca825b-d543-46af-8478-38e40db12d31)
 
 We are designers that don't want to stop where design gets handed off to development. 
 
@@ -9,34 +11,14 @@ We are designers that don't want to stop where design gets handed off to develop
 * We want to touch and feel the matter that we are working with instead of hoping that the designs we created in Figma get implemented in the way we envisioned.
 * We want to optimize the experience by tweaking the design where it finally counts: in the code.
 
-This place is meant to help other designers to take the first steps into creating their own prototypes in code. It addresses designers that have no coding skills as well as designers that have some experience with web design, HTML, JavaScript, and CSS already (you notice, for now we focus on web-based applications).
+This place is meant to help other designers to take the first steps into creating their own prototypes in code. It addresses designers that have no coding skills as well as designers that have some experience with web design, HTML, JavaScript, and CSS already (you notice, for now we focus on web-based applications). We will focus on technologies that are provided by SAP for the [SAP Fiori Design System](https://experience.sap.com/fiori-design/).
 
-<div style="display:flex; flex-direction: row; flex:auto; gap:20;">
-  <div style="background-color:red; corner-radius: 12;">Test</div>
-  <div style="background-color:red; corner-radius: 12;">Test</div>
-  <div style="background-color:red; corner-radius: 12;">Test</div>
-</div>
+* **General Topics**
+* **SAP Web Components**
+* **SAPUI5**
 
 This place is accompanied by a series of articles *Designing with Code* that appear on the *SAP Community*: 
 
 * [Designing with Code](https://blogs.sap.com/2023/10/29/designing-with-code/) - why we think it is important for designers to start looking also into the technology they design for.
 
-We will focus on technologies that are provided by SAP for the [SAP Fiori Design System](https://experience.sap.com/fiori-design/).
-
-## [SAP Web Components](https://sap.github.io/ui5-webcomponents/)
-
-A web component library with more than 60 enterprise-ready UI components. 
-
-There are wrappers for the most common JavaScript frameworks available:
-
-* [SAP Web Components for Angular NGX](https://github.com/SAP/ui5-webcomponents-ngx)
-* [SAP Web Components for React](https://github.com/SAP/ui5-webcomponents-react)
-
-**All resources and tutorials to help designers get started implementing own prototypes using web components can be found here.**
-
-## [SAPUI5](https://sapui5.hana.ondemand.com/#/)
-
-A full JavaScript framework with more than 200 components, patterns, and floorplans implementing the SAP Fiori Design System. SAPUI5 comes with comprehensive support for accessibility, responsive design patterns, globalisation and data provisioning via OData. 
-
-**All resources and tutorials to help designers get started implementing own prototypes using SAPUI5 can be found here.**
 
