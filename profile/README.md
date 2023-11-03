@@ -8,10 +8,16 @@ We are designers that don't want to stop where design gets handed off to develop
 
 This place is meant to help other designers to take the first steps into creating their own prototypes in code. It addresses designers that have no coding skills as well as designers that have some experience with web design, HTML, JavaScript, and CSS already (you notice, for now we focus on web-based applications).
 
-We will focus on technologies that are provided by SAP to create user interfaces for the [SAP Fiori Design System](https://experience.sap.com/fiori-design/).
+We will focus on technologies that are provided by SAP for the [SAP Fiori Design System](https://experience.sap.com/fiori-design/).
+
+<img src="https://sap.github.io/ui5-webcomponents/assets/images/sb-logo.png"/>
+
+## SAP Web Components
 
 <img src="https://sapui5.hana.ondemand.com/resources/sap/ui/documentation/sdk/images/ui5-logo-light.svg"/>
+
 ## SAPUI5
+
 
 This place contains repositories 
 This repository contains resources and exercises that accompany a series of articles called "Designing with Code" published on the SAP community platform. The articles have the goal to motivate and help designers to start creating their own design prototypes using the available SAP technologies.
