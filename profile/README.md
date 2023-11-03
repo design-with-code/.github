@@ -11,6 +11,12 @@ We are designers that don't want to stop where design gets handed off to develop
 
 This place is meant to help other designers to take the first steps into creating their own prototypes in code. It addresses designers that have no coding skills as well as designers that have some experience with web design, HTML, JavaScript, and CSS already (you notice, for now we focus on web-based applications).
 
+<div style="display:flex; flex-direction: row; flex:auto; gap:20;">
+  <div style="background-color:red; corner-radius: 12;">Test</div>
+  <div style="background-color:red; corner-radius: 12;">Test</div>
+  <div style="background-color:red; corner-radius: 12;">Test</div>
+</div>
+
 This place is accompanied by a series of articles *Designing with Code* that appear on the *SAP Community*: 
 
 * [Designing with Code](https://blogs.sap.com/2023/10/29/designing-with-code/) - why we think it is important for designers to start looking also into the technology they design for.
