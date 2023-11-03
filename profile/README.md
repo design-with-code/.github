@@ -1,3 +1,6 @@
+**THIS PAGE IS CURRENTLY SET UP**
+
+
 # Design with Code
 
 We are designers that don't want to stop where design gets handed off to development. 
@@ -8,24 +11,26 @@ We are designers that don't want to stop where design gets handed off to develop
 
 This place is meant to help other designers to take the first steps into creating their own prototypes in code. It addresses designers that have no coding skills as well as designers that have some experience with web design, HTML, JavaScript, and CSS already (you notice, for now we focus on web-based applications).
 
+This place is accompanied by a series of articles on the *SAP Community* 
+
+* 
+
 We will focus on technologies that are provided by SAP for the [SAP Fiori Design System](https://experience.sap.com/fiori-design/).
 
-<img src="https://sap.github.io/ui5-webcomponents/assets/images/sb-logo.png"/>
+## [SAP Web Components](https://sap.github.io/ui5-webcomponents/)
 
-## SAP Web Components
+A web component library with more than 60 enterprise-ready UI components. 
 
-<img src="https://sapui5.hana.ondemand.com/resources/sap/ui/documentation/sdk/images/ui5-logo-light.svg"/>
+There are wrappers for the most common JavaScript frameworks available:
 
-## SAPUI5
+* [SAP Web Components for Angular NGX](https://github.com/SAP/ui5-webcomponents-ngx)
+* [SAP Web Components for React](https://github.com/SAP/ui5-webcomponents-react)
 
+**All resources and tutorials to help designers get started implementing own prototypes using web components can be found here.**
 
-This place contains repositories 
-This repository contains resources and exercises that accompany a series of articles called "Designing with Code" published on the SAP community platform. The articles have the goal to motivate and help designers to start creating their own design prototypes using the available SAP technologies.
+## [SAPUI5](https://sapui5.hana.ondemand.com/#/)
 
-Many designers see the value in knowing more about the technology they use as basis for their designs on a daily basis, but the hurdle to get started is just to high, especially if they are busy in their daily routine and under pressure to deliver.
+A full JavaScript framework with more than 200 components, patterns, and floorplans implementing the SAP Fiori Design System. SAPUI5 comes with comprehensive support for accessibility, responsive design patterns, globalisation and data provisioning via OData. 
 
-This series of articles gives an introduction to our main UI technologies and how they can be used by designers without the need to set up complicated development environments and server.
+**All resources and tutorials to help designers get started implementing own prototypes using SAPUI5 can be found here.**
 
-The following articles form part of this series :
-
-Part 1: Change of Perspective, SAP Community - Introduction and motivation for this serieas of articles. The experience from my fellowship as product designer and the experience of creating my first own prototype using web components and later SAPUI5.
