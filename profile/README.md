@@ -11,7 +11,7 @@ We are designers that don't want to stop where design gets handed off to develop
 This place is meant to help other designers to take the first steps into creating their own prototypes in code. It addresses designers that have no coding skills as well as designers that have some experience with web design, HTML, JavaScript, and CSS already (you notice, for now we focus on web-based applications). We will focus on technologies that are provided by SAP for the [SAP Fiori Design System](https://experience.sap.com/fiori-design/).
 
 * **[General Topics](https://github.com/design-with-code/general)**
-* **[SAP Web Components](https://github.com/design-with-code/sap-web-components)**
+* **[SAP Web Components](https://github.com/design-with-code/web-components)**
 * **[SAPUI5](https://github.com/design-with-code/sapui5)**
 
 This place is accompanied by a series of articles *Designing with Code* that appear on the *SAP Community*: 
