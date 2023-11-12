@@ -20,6 +20,6 @@ This place is meant to help other designers to take the first steps into creatin
 This place is accompanied by a series of articles *Designing with Code* that appear on the *SAP Community*: 
 
 * [Designing with Code](https://blogs.sap.com/2023/10/29/designing-with-code/) - why we think it is important for designers to start looking also into the technology they design for.
-* [Crossing the Bridge](https://blogs.sap.com/2023/11/05/designing-with-code-part-2-crossing-the-bridge/) - Whay we are already coding without knowing and how we can best translate our knowledge from the design tool into code.
+* [Crossing the Bridge](https://blogs.sap.com/2023/11/05/designing-with-code-part-2-crossing-the-bridge/) - why we are already coding without knowing and how we can best translate our knowledge from the design tool into code.
 
 
