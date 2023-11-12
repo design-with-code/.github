@@ -1,6 +1,3 @@
-> [!WARNING]
-> This page is currently being set up.
-
 # Design with Code
 
 ![Part 1 teaser](https://github.com/design-with-code/.github/assets/46745939/31ca825b-d543-46af-8478-38e40db12d31)
