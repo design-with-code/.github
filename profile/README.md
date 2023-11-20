@@ -19,5 +19,6 @@ This place is accompanied by a series of articles *Designing with Code* that app
 * [Designing with Code](https://blogs.sap.com/2023/10/29/designing-with-code/) - why we think it is important for designers to start looking also into the technology they design for.
 * [Crossing the Bridge](https://blogs.sap.com/2023/11/05/designing-with-code-part-2-crossing-the-bridge/) - why we are already coding without knowing and how we can best translate our knowledge from the design tool into code.
 * [SAP Web Components](https://blogs.sap.com/2023/11/13/designing-with-code-part-3-sap-web-components/) - first steps creating your own prototype without additional setup using SAP Web Components, HTML and CSS.
+* [Data, Document Object Model, and Events](https://blogs.sap.com/2023/11/20/designing-with-code-part-4-data-document-object-model-and-events/) - basic concepts to create interactive prototypes with a data model, the possibility to dynamically change and generate parts of the UI and to react to user interaction using events.
 
 
